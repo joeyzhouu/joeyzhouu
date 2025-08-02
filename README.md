@@ -5,4 +5,4 @@ I’m a rising junior at Cornell University, majoring in Computer Science with m
 
 📧 Email: sz545@cornell.edu \
 📱 Phone: 347-955-7882  \
-🔗 LinkedIn: linkedin.com/in/joeyzhouu
+🔗 LinkedIn: https://linkedin.com/in/joeyzhouu
